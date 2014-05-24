@@ -6,5 +6,6 @@ public class PrimeNumberTest
     {
         PrimeNumber num = new PrimeNumber();
         System.out.println(num.say(1));
+        System.out.println(num.say(2));
     }
 }
